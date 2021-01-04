@@ -117,9 +117,9 @@ module.exports = function (/* ctx */) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: 'scullery-manager',
-        short_name: 'scullery-manager',
-        description: 'track and record maintenance on your most important things, as they move between your Domicile, Boat, RV, Cabin, or loaned out to friends',
+        name: 'quasarVue-base-jump',
+        short_name: 'quasarVue-base-jump',
+        description: 'A nice and clean launching point for a vue app using quasar',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
