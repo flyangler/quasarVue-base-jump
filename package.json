@@ -1,8 +1,8 @@
 {
-  "name": "scullery-manager",
+  "name": "quasarVue-base-jump",
   "version": "0.0.1",
-  "description": "track and record maintenance on your most important things, as they move between your Domicile, Boat, RV, Cabin, or loaned out to friends",
-  "productName": "scullery-manager",
+  "description": "A clean launch point for building apps with quasar.",
+  "productName": "quasarVue-base-jump",
   "author": "John Kent <208jkent@gmail.com>",
   "private": true,
   "scripts": {
