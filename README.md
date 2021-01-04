@@ -1,6 +1,5 @@
-# scullery-manager (scullery-manager)
-
-track and record maintenance on your most important things, as they move between your Domicile, Boat, RV, Cabin, or loaned out to friends
+# Vue BaseJump
+startup repo with routes and left navbar
 
 ## Install the dependencies
 ```bash
